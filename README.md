@@ -1,4 +1,4 @@
-Google Reader虽然灭亡了，但读书人的情怀却不曾消亡。[RSS2EPUB](http://rss2epub.appspot.com)将您的RSS订阅转换成EPUB电子书，并每天定时推送至您的邮箱。让您轻松在Kindle、多看等EPUB阅读器上享受阅读的乐趣。
+Google Reader虽然灭亡了，但读书人的情怀却不曾消亡。[RSS2EPUB](http://rss2epub.appspot.com)将您的RSS订阅转换成EPUB电子书，并每天定时推送至您的邮箱。让您轻松在Kindle、多看等EPUB阅读器上享受阅读的乐趣。看看电子书的效果？移步到[sample文件夹](https://github.com/meixuesong/rss2epub/tree/master/sample)。
 
 ![image](http://blog.ubone.com/myresource/images/kindle_rss2epub.png)
 
