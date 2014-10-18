@@ -1,4 +1,5 @@
-下面是一些推荐的RSS。
+下面是一些推荐的RSS。你也可以先看一下样本电子书：[Sample](https://github.com/meixuesong/rss2epub/tree/master/sample)
+
 ## 科技类RSS推荐
 
 ### InfoQ 中文站
@@ -24,7 +25,7 @@ SOA和WEB：http://www.ibm.com/developerworks/cn/views/rss/customrssatom.jsp?zon
 ### 其它IT类RSS
 酷壳 : http://coolshell.cn/feed
 
-并发编程网：http://ifeve.com/feed/
+并发编程网：http://ifeve.com/feed
 
 cnBeta业界资讯: http://cnbeta.feedsportal.com/c/34306/f/624776/index.rss
 
@@ -45,4 +46,3 @@ FT中文网其它RSS资源请访问: [FTChinese](http://www.ftchinese.com/channe
 双语新闻：http://www.i21st.cn/rss/story.xml
 
 FT中文网每日英语：http://www.ftchinese.com/rss/diglossia
-
