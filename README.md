@@ -2,6 +2,8 @@
 
 如果能够将两者结合起来，世界将会怎样？当你安静地靠窗坐在咖啡厅、在草坪上享受温暖的阳光或者睡前静卧于床，拿起Kindle，阅读自动推送过来的RSS订阅内容，我想也是醉了。
 
+【Update 2014-10-27】 已经支持MOBI格式，也就是说不需要安装多看客户端就可以直接推送到Kindle了。只需要将文件名后缀改为.mobi，推送邮箱设置为kindle的邮箱，并在你的Amazon帐户中设置允许接收来自rss.epub.push@gmail.com的内容。
+
 #什么是RSS2EPUB
 [RSS2EPUB](http://rss2epub.appspot.com)正是为了满足这样的阅读需求，它将您的RSS订阅内容转换成EPUB电子书，并每天定时推送至您的邮箱。让您轻松在Kindle、iBooks和多看等EPUB阅读器上享受阅读的乐趣。
 
